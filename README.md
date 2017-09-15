@@ -1,2 +1,6 @@
-# Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+# Weather App
+
+
+## GraphQL Exercise
+
+Small App for lyrics of songs
